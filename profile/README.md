@@ -1,3 +1,3 @@
-![Black Lambda Games](https://github.com/Black-Lambda-Games/.github/blob/main/logo.png?raw=true)
+![Black Lambda Games](./banner.png)
 
 Developers of the upcoming game Ultimate Handegg.
